@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Yadu
 - ⚡ Fun fact: Sun always rise from East. It just does
 
+### Projects
+Manage My Rides 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/464b2f37-cf36-4c75-9be1-5dbf697506d1/deploy-status)](https://app.netlify.com/sites/affectionate-lewin-6f7f15/deploys)
+
 <a href="https://twitter.com/the_yadu">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
