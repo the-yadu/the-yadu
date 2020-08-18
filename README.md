@@ -19,6 +19,10 @@ Manage My Rides
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/464b2f37-cf36-4c75-9be1-5dbf697506d1/deploy-status)](https://app.netlify.com/sites/affectionate-lewin-6f7f15/deploys)
 
+KwikStore
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/13cb0a07-22bf-4ff4-a4b3-ed3b485f7e87/deploy-status)](https://app.netlify.com/sites/gracious-jennings-6d7801/deploys)
+
 <a href="https://twitter.com/the_yadu">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
