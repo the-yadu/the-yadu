@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [Lekh.pw!](https://lekh.pw), [Manage My Rides.pw!](https://app.managemyrides.com), [KwikStore!](https://Kwikstore.in)
+- 🔭 I’m currently working on [Lekh.pw!](https://lekh.pw), [Manage My Rides!](https://app.managemyrides.com), [KwikStore!](https://Kwikstore.in)
 - 🌱 I’m currently Using SvelteJs, Sapper, BrainJs, React, Nodejs, Fastify, Mongodb, Hapi, Tailwind css, Strapi
 - 👯 I’m looking to collaborate on Some open source projects
 - 🤔 I’m looking for help with [Lekh.pw!](https://lekh.pw)
